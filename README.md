@@ -12,6 +12,15 @@ My main tech stack is Dev-C++, PyCharm, Jupyter Notebook, Oracle APEX, Oracle Da
 
 I've got a bunch of pinned projects, but my favourite is the GameGearHub built for E-commerce marketplace.
 
+
+## Tools & Tech
+ Dev-C++, Microsoft Excel, Visual Studio Code, GCC (MinGW)
+ Jupyter Notebook and PyCharm for Python
+ Oracle APEX and MySQL for SQL
+ HTML, CSS, Django
+ 
+
+
 Fun Facts: 
 I have exotic pets
 I don't like coffee
