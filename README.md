@@ -1,16 +1,19 @@
-## Hi there 👋
+## Hi there 👋 I'm Arunpillai Raghavan
 
-<!--
-**ArunRaghavan-vibecode/ArunRaghavan-vibecode** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a Computer Science student at Universiti Sains Malaysia (USM) with an interest in software development, problem-solving, and technology.
 
-Here are some ideas to get you started:
+I enjoy exploring new technologies, developing projects, and turning ideas into practical solutions through code.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I'm currently working on improving my programming skills and building whatever I can imagine.
+
+If an idea pops into my head, chances are I'll build it and ship it.
+
+My main tech stack is Dev-C++, PyCharm, Jupyter Notebook, Oracle APEX, Oracle Database, MySQL, Django, Microsoft 365.
+
+I've got a bunch of pinned projects, but my favourite is the GameGearHub built for E-commerce marketplace.
+
+Fun Facts: 
+I have exotic pets
+I don't like coffee
+Hobbies: gym, freelancing, building things
+
